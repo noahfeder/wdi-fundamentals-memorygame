@@ -73,3 +73,13 @@ nav a:hover {
 p, h1, h2 {
 	text-align: center;
 }
+
+.queen {
+	background-image: url(queen.png);
+	background-size: cover;
+}
+
+.king {
+	background-image: url(king.png);
+	background-size: cover;
+}
